@@ -4,7 +4,7 @@
   "description": "A Random number generator of strings and numbers",
   "main": "index.js",
   "scripts": {
-    "test": "randomnumbergenerator"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
