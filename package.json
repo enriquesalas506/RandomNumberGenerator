@@ -1,0 +1,26 @@
+{
+  "name": "randomnumbergenerator",
+  "version": "1.0.0",
+  "description": "A Random number generator of strings and numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "randomnumbergenerator"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enriquesalas506/RandomNumberGenerator.git"
+  },
+  "keywords": [
+    "Random",
+    "Number",
+    "and",
+    "Random",
+    "Strings"
+  ],
+  "author": "Jose Salas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enriquesalas506/RandomNumberGenerator/issues"
+  },
+  "homepage": "https://github.com/enriquesalas506/RandomNumberGenerator#readme"
+}
