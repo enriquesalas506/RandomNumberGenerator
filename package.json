@@ -1,5 +1,5 @@
 {
-  "name": "randomnumbergenerator",
+  "name": "randomnumbergeneratorandstrings",
   "version": "1.0.0",
   "description": "A Random number generator of strings and numbers",
   "main": "index.js",
